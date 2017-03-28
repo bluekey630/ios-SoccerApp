@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2E689F39FE848AEC50CF525905AD66BC06870580",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C2DD20A51BF2615AFE12B07F7A9A2C92479D0851" : 9223372036854775807,
+    "2E689F39FE848AEC50CF525905AD66BC06870580" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DDDE0148-244C-4FC8-A213-9073F0911A12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C2DD20A51BF2615AFE12B07F7A9A2C92479D0851" : "bahisadam\/Packages\/IOSQLite\/",
+    "2E689F39FE848AEC50CF525905AD66BC06870580" : "bahisadam\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "bahisadam",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "bahisadam.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilk33r\/bahisadam.ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E689F39FE848AEC50CF525905AD66BC06870580"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilk33r\/IOSQLite.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C2DD20A51BF2615AFE12B07F7A9A2C92479D0851"
+    }
+  ]
+}
