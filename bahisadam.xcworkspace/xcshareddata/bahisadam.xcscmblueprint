@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2E689F39FE848AEC50CF525905AD66BC06870580",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5B1772F239DD8D1DC9B842DA5C7E1504AC4C45B3",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "C2DD20A51BF2615AFE12B07F7A9A2C92479D0851" : 9223372036854775807,
-    "2E689F39FE848AEC50CF525905AD66BC06870580" : 9223372036854775807
+    "5B1772F239DD8D1DC9B842DA5C7E1504AC4C45B3" : 9223372036854775807,
+    "2E689F39FE848AEC50CF525905AD66BC06870580" : 9223372036854775807,
+    "C2DD20A51BF2615AFE12B07F7A9A2C92479D0851" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DDDE0148-244C-4FC8-A213-9073F0911A12",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "C2DD20A51BF2615AFE12B07F7A9A2C92479D0851" : "bahisadam\/Packages\/IOSQLite\/",
-    "2E689F39FE848AEC50CF525905AD66BC06870580" : "bahisadam\/"
+    "5B1772F239DD8D1DC9B842DA5C7E1504AC4C45B3" : "SoccerApp\/",
+    "2E689F39FE848AEC50CF525905AD66BC06870580" : "bahisadam\/",
+    "C2DD20A51BF2615AFE12B07F7A9A2C92479D0851" : "bahisadam\/Packages\/IOSQLite\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "bahisadam",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilk33r\/bahisadam.ios.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E689F39FE848AEC50CF525905AD66BC06870580"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bluekey630\/ios-SoccerApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B1772F239DD8D1DC9B842DA5C7E1504AC4C45B3"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilk33r\/IOSQLite.git",

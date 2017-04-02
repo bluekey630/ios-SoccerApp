@@ -1748,6 +1748,7 @@
 					};
 					DEEFB7F81D3EA36000DDA8C9 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = DDT26KK26C;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -3392,7 +3393,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = DDT26KK26C;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = bahisadam/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
@@ -3414,7 +3415,7 @@
 				CODE_SIGN_ENTITLEMENTS = bahisadam/Bundles/bahisadam.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = DDT26KK26C;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = bahisadam/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
